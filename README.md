@@ -35,7 +35,7 @@
 
 <div align="center">
   
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabsgc01&repo=GedApi&show_icons=true&theme=transparent)](https://github.com/Gabsgc01/GedApi)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabsgc01&repo=GedApi&show_icons=true&theme=transparent)](https://github.com/Gabsgc01/Projeto-Babaja)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabsgc01&repo=Drawback.docs&show_icons=true&theme=transparent)](https://github.com/Gabsgc01/Drawback.docs)
 
 </div>
