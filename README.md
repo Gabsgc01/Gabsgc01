@@ -4,9 +4,8 @@
 
 ## 🌐 Socials:
 
-<a href="https://www.linkedin.com/in/davimunhoz1005/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
-<a href="https://medium.com/@davimunhoz1005">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a> 
-<a href="https://github.com/DaviMunhoz1005">![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a> 
+<a href="https://www.linkedin.com/in/gabriel-ciriaco-a43b0a198/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
+<a href="https://github.com/Gabsgc01">![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a> 
 
 <div align="center">
 
@@ -35,7 +34,7 @@
 
 <div align="center">
   
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabsgc01&repo=GedApi&show_icons=true&theme=transparent)](https://github.com/Gabsgc01/Projeto-Babaja)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabsgc01&repo=Drawback.docs&show_icons=true&theme=transparent)](https://github.com/Gabsgc01/Drawback.docs)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabsgc01&repo=Projeto-Babaja&show_icons=true&theme=transparent)](https://github.com/Gabsgc01/Projeto-Babaja)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabsgc01&repo=MinhaPagina&show_icons=true&theme=transparent)](https://github.com/Gabsgc01/MinhaPagina)
 
 </div>
